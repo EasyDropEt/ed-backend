@@ -1,0 +1,21 @@
+[submodule "ed-gateway"]
+	path = ed-gateway
+	url = https://github.com/easydropet/ed-gateway
+[submodule "ed-core"]
+	path = ed-core
+	url = https://github.com/easydropet/ed-core
+[submodule "ed-domain"]
+	path = ed-domain
+	url = https://github.com/easydropet/ed-domain
+[submodule "ed-infrastructure"]
+	path = ed-infrastructure
+	url = https://github.com/easydropet/ed-infrastructure
+[submodule "ed-optimization"]
+	path = ed-optimization
+	url = https://github.com/easydropet/ed-optimization
+[submodule "ed-auth"]
+	path = ed-auth
+	url = https://github.com/easydropet/ed-auth
+[submodule "ed-notification"]
+	path = ed-notification
+	url = https://github.com/easydropet/ed-notification
